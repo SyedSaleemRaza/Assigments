@@ -1,0 +1,51 @@
+body{
+    background-color: hsl(46, 78%, 73%);
+}
+#main{
+    display: flex;
+    width: 1200px;
+    flex-direction:row;
+}
+
+h1{
+    text-align: center;
+    margin: 10px;
+    
+}
+
+p{
+    text-align: center;
+    margin: 0;
+    
+}
+div{
+    width: 300px;
+}
+img{
+    width: 200px;
+    margin: 0;
+
+}
+#main ul{
+    list-style: none;
+    display: flex;
+    gap: 130px;
+}
+#main li{
+    width: 190px;
+    height: 210px;
+    padding: 10px;
+    
+}
+
+#images ul{
+    list-style: none;
+    display: flex;
+    gap: 140px;
+}
+hr{
+    background-color: black;
+    margin: 0%;
+    padding: 0;
+    height: 2px;
+}
