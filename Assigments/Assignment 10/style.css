@@ -10,13 +10,14 @@ body{
 h1{
     text-align: center;
     margin: 10px;
+    color: white;
     
 }
 
 p{
     text-align: center;
     margin: 0;
-    
+    color: white;
 }
 div{
     width: 300px;
